@@ -23,11 +23,15 @@ So I can help lily
 I want to use the guardian api and the aylien api to put a summary and a Guardian class in a CSV file (or JSON)
 ```
 Flora: 
+
 [] Explore Flask - set up simple python web app 
+
 [] data required in this format:  https://www.kaggle.com/rmisra/news-category-dataset?select=News_Category_Dataset_v2.json
 
 
 Lily:
+
 [] Git / Jhub configuration 
+
 [] Explore mock dataset in Kaggle comp:
 https://www.kaggle.com/rmisra/news-category-dataset?select=News_Category_Dataset_v2.json
